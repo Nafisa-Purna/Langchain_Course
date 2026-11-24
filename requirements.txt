@@ -13,6 +13,9 @@ google-generativeai
 # Anthropic
 langchain-anthropic
 
+# Groq
+langchain-groq
+
 # Hugging Face
 langchain-huggingface
 transformers
@@ -24,3 +27,8 @@ python-dotenv
 # ML utilities
 numpy
 scikit-learn
+
+sentence-transformers
+
+# streamlit
+streamlit
